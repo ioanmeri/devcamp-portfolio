@@ -60,3 +60,4 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 
 gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
+gem 'merianos_view_tool', git: 'https://github.com/ioanmeri/merianos_view_tool'
